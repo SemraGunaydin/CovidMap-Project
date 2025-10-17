@@ -1,4 +1,5 @@
 # CovidMap-Project
+- Explore real-time global COVID-19 data through dynamic maps, live statistics, and interactive visualizations powered by React and Redux.
 - 🌍📊 Case Data and Statistics:
 * Real-time updates on case numbers and death rates displayed on the map, ensuring users always access the most accurate and current information.
 
@@ -40,3 +41,5 @@
 
 # 📬 Contact
 - 📩 Email: gunaydinsemra34@gmail.com
+
+- Stay informed, stay safe 🌍 — track global COVID-19 data in real time with an interactive map and up-to-date insights.  
