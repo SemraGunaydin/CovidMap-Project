@@ -42,4 +42,4 @@
 # 📬 Contact
 - 📩 Email: gunaydinsemra34@gmail.com
 
-- Stay informed, stay safe 🌍 — track global COVID-19 data in real time with an interactive map and up-to-date insights.  
+- Stay informed, stay safe 🌍 track global COVID-19 data in real time with an interactive map and up-to-date insights.  
